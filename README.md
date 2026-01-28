@@ -38,8 +38,6 @@ A simple train/test split at the day level is used for local validation as a san
 Using ridge regression with a manually tuned regularization parameter, the model achieves
 a mean weighted sign accuracy of approximately **0.71** across the 100 liquid assets.
 
-This local score is not intended as a leaderboard result, but as a consistency check of
-the modeling assumptions.
 
 ## Inference
 Final models are trained on the full training dataset and applied line-by-line to the test
