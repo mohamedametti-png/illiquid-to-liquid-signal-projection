@@ -1,6 +1,6 @@
 # Illiquid-to-Liquid Signal Projection
 
-This repository presents a quantitative research project inspired by a challenge
+This repository presents a machine learning project inspired by a challenge
 proposed by Qube Research & Technologies (QRT). The objective is to transfer predictive
 signals from illiquid assets to liquid instruments by learning cross-asset relationships.
 
